@@ -15,7 +15,6 @@ To write a C Program to convert a given decimal value to binary using function w
 
 ## Program:
 ```
-```
   #include<stdio.h> 
   int dectobin(int d){ 
 int bin =0,base=1,rem; 
@@ -31,6 +30,7 @@ return 0;
 ```
 
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/6092ab3b-7c24-4c24-8c3b-23662be759ee)
 
 
